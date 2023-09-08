@@ -6005,10 +6005,10 @@ ul.is-style-st-square-checkbox li:last-child,
 
 /*マイボタン*/
 .st-mybtn {
-	box-sizing:border-box;
-	margin-left:auto;
-	margin-right:auto;
-	display:block;
+	box-sizing:border-box!important;
+	margin-left:auto!important;
+	margin-right:auto!important;
+	display:block!important;
 }
 
 .st-mybtn:not(.st-mybtn-noborder) {
