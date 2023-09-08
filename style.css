@@ -12301,3 +12301,14 @@ ul.wp-block-latest-posts,
 
 /*-- ここまで --*/
 }
+
+table.st-tbl1 {
+    min-width: 200px;
+    min-height: 200px;
+    overflow: scroll;
+}
+
+table.st-tbl1 th {
+	position: sticky;
+	top: 0;
+}
