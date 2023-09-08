@@ -192,7 +192,7 @@ a:hover {
 	color: #b22222;
 }
 
-img:not(.size-st_header_slider):not(.cta-wrap),
+img:not(.size-st_header_slider):not(src="https://www.lacuri.jp/img/bnr-cta.webp"),
 video,
 object {
 	max-width: 100%;
